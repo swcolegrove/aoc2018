@@ -15,7 +15,8 @@
     "strict": ["error", "global"],
     "import/newline-after-import": false,
     "no-console": "off",
-    "no-plusplus": "off"
+    "no-plusplus": "off",
+    "no-loop-func": "off"
   },
   "globals": {
     "document": true,
