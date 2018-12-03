@@ -16,7 +16,8 @@
     "import/newline-after-import": false,
     "no-console": "off",
     "no-plusplus": "off",
-    "no-loop-func": "off"
+    "no-loop-func": "off",
+    "no-param-reassign": "off"
   },
   "globals": {
     "document": true,
