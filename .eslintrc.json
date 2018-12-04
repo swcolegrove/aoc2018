@@ -17,7 +17,8 @@
     "no-console": "off",
     "no-plusplus": "off",
     "no-loop-func": "off",
-    "no-param-reassign": "off"
+    "no-param-reassign": "off",
+    "max-len": "off"
   },
   "globals": {
     "document": true,
